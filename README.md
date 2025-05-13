@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @WebDevMorris
-- 👀 I’m interested in Web development and softwar engineering
-- 🌱 I’m currently learning PHP and Mongo DB
+- 👀 I’m interested in Cybersecurity | Networking | IT
+- 🌱 I’m currently improving my SOAR and scripting skills
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me via email at danimorris09@gmail.com
